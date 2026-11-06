@@ -1,0 +1,13 @@
+# Logs & Cache
+cache/
+*.log
+
+# Server & Hosting Artifacts
+.htaccess.phpupgrader.*
+.well-known/
+
+# OS & Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

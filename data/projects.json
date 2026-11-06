@@ -1,0 +1,230 @@
+[
+  {
+    "id": "gladiator-arena",
+    "title": "Gladiator Arena Character Generator",
+    "tagline": "Tactical character generation & attribute balancing desktop tool",
+    "description": "High-performance desktop application engineered in C++ that enables rapid procedural generation, custom tailoring, and serialization of RPG characters for Gladiator Arena. Features statistical attribute balancing, class rulesets, and persistent character exports.",
+    "category": "software",
+    "featured": true,
+    "year": "2024",
+    "tags": ["C++", "Game Dev", "Desktop", "Algorithms"],
+    "github": "https://github.com/tpsapp/Gladiator-Arena-Character-Generator",
+    "demo": null,
+    "image": null,
+    "icon": "sword",
+    "highlights": [
+      "Custom procedural stat generation algorithm",
+      "Robust data persistence and export system",
+      "Native C++ implementation with zero runtime overhead"
+    ]
+  },
+  {
+    "id": "startraders-db-modifier",
+    "title": "Star Traders DB Modifier",
+    "tagline": "Database decryptor, parser, and editor for Star Traders: Frontiers",
+    "description": "Specialized reverse-engineering and utility tool written in C++ that decrypts, validates, and modifies SQLite game save databases for Star Traders: Frontiers, safely re-encrypting modified payloads for game engine compatibility.",
+    "category": "software",
+    "featured": true,
+    "year": "2024",
+    "tags": ["C++", "Cryptography", "Reverse Engineering", "SQLite"],
+    "github": "https://github.com/tpsapp/startradersdbmodifier",
+    "demo": null,
+    "image": null,
+    "icon": "database",
+    "highlights": [
+      "Cryptographic save file stream decryption and re-encryption",
+      "Integrity check validation preventing game state corruption",
+      "Modular design for cross-platform Linux and Windows compilation"
+    ]
+  },
+  {
+    "id": "qr-gen",
+    "title": "C++ QR Code Generator",
+    "tagline": "Lightweight native QR Code rasterizer and PNG generator",
+    "description": "Native C++ command-line and library utility that computes QR code matrix specifications and outputs uncompressed, high-fidelity PNG image assets using tiny embedded PNG serialization routines.",
+    "category": "tools",
+    "featured": true,
+    "year": "2023",
+    "tags": ["C++", "Graphics", "CLI Tool", "PNG Rendering"],
+    "github": "https://github.com/tpsapp/qr-gen",
+    "demo": null,
+    "image": null,
+    "icon": "qrcode",
+    "highlights": [
+      "Direct byte-level PNG generation without bloated external dependencies",
+      "Customizable error correction levels (L, M, Q, H)",
+      "High-speed execution suited for pipeline integration"
+    ]
+  },
+  {
+    "id": "my-library",
+    "title": "My Library",
+    "tagline": "Personal book inventory & reading tracker web application",
+    "description": "Clean, interactive single-page web application that lets book collectors and readers catalog their personal library. Features dynamic sorting, cover filtering, status tracking, and offline persistence via client-side Web Storage.",
+    "category": "web",
+    "featured": true,
+    "year": "2020",
+    "tags": ["JavaScript", "HTML5", "CSS3", "LocalStorage"],
+    "github": "https://github.com/tpsapp/MyLibrary",
+    "demo": "https://www.thomassapp.com/MyLibrary",
+    "image": "assets/images/portfolio/mylibrary.jpg",
+    "icon": "book-open",
+    "highlights": [
+      "Zero-latency client-side persistence with localStorage",
+      "Dynamic DOM manipulation with clean, vanilla JavaScript",
+      "Fully responsive interface across mobile and desktop"
+    ]
+  },
+  {
+    "id": "weather-widget",
+    "title": "Weather Widget",
+    "tagline": "Live meteorological dashboard powered by OpenWeatherMap API",
+    "description": "Dynamic weather reporting interface utilizing the OpenWeatherMap REST API and HTML5 Geolocation. Surfaces real-time atmospheric conditions, humidity, wind speeds, and temperature with adaptive weather iconography.",
+    "category": "web",
+    "featured": true,
+    "year": "2020",
+    "tags": ["JavaScript", "REST API", "Geolocation", "Responsive UI"],
+    "github": "https://github.com/tpsapp/WeatherWidget",
+    "demo": "https://www.thomassapp.com/WeatherWidget",
+    "image": "assets/images/portfolio/weatherwidget.jpg",
+    "icon": "cloud-sun",
+    "highlights": [
+      "Asynchronous REST API consumption using Fetch / Promises",
+      "Automated location detection with fallback search",
+      "Dynamic theme styling reflecting current climate"
+    ]
+  },
+  {
+    "id": "weight-converter",
+    "title": "Weight Converter",
+    "tagline": "Instant real-time unit translation utility",
+    "description": "Responsive client-side calculation utility providing instant cross-conversion between imperial pounds, kilograms, ounces, and grams with sub-millisecond input feedback and accessible input controls.",
+    "category": "web",
+    "featured": false,
+    "year": "2020",
+    "tags": ["JavaScript", "CSS3", "Utility", "Accessibility"],
+    "github": "https://github.com/tpsapp/WeightConverter",
+    "demo": "https://www.thomassapp.com/WeightConverter",
+    "image": "assets/images/portfolio/weightconverter.jpg",
+    "icon": "scale",
+    "highlights": [
+      "Event-driven real-time calculation pipeline",
+      "Accessible form controls and high-contrast numerical readouts",
+      "Minimalist footprint with zero external dependencies"
+    ]
+  },
+  {
+    "id": "ping-pygame",
+    "title": "Ping - Arcade Pong Clone",
+    "tagline": "Classic 2D retro table tennis arcade engine built with Pygame",
+    "description": "Custom 2D arcade physics implementation of Pong crafted in Python using the Pygame framework. Includes real-time collision detection, adjustable ball vector velocity, score tracking, and smooth paddle physics.",
+    "category": "games",
+    "featured": true,
+    "year": "2023",
+    "tags": ["Python", "Pygame", "Physics", "Game Dev"],
+    "github": "https://github.com/tpsapp/ping",
+    "demo": null,
+    "image": null,
+    "icon": "gamepad",
+    "highlights": [
+      "60 FPS smooth physics loop with collision bounding boxes",
+      "Interactive 2-player keyboard input handling",
+      "Clean object-oriented architecture in Python"
+    ]
+  },
+  {
+    "id": "jenny-leigh-paints",
+    "title": "Jenny Leigh Paints",
+    "tagline": "Custom e-commerce & fine art showcase website",
+    "description": "Custom-designed e-commerce web platform developed for an Arizona artist to exhibit fine art collections, handle commissions, and facilitate original artwork sales with custom typography and gallery layouts.",
+    "category": "web",
+    "featured": false,
+    "year": "2016",
+    "tags": ["Web Design", "E-Commerce", "CSS3", "PHP"],
+    "github": null,
+    "demo": "http://www.jennyleighpaints.com",
+    "image": "assets/images/portfolio/jenntleighpaints.png",
+    "icon": "palette",
+    "highlights": [
+      "High-resolution art gallery showcase layout",
+      "Integrated shopping and checkout workflows",
+      "Tailored branding identity and aesthetic"
+    ]
+  },
+  {
+    "id": "powershell-automation",
+    "title": "Enterprise IT PowerShell Automation Suite",
+    "tagline": "Production administration scripts & workflow automations",
+    "description": "Collection of enterprise PowerShell scripts engineered to automate routine Windows administration, Active Directory user provisioning, endpoint diagnostic audits, and remote configuration deployment.",
+    "category": "tools",
+    "featured": true,
+    "year": "2024",
+    "tags": ["PowerShell", "Automation", "Enterprise IT", "DevOps"],
+    "github": "https://github.com/tpsapp/PowerShell-Scripts",
+    "demo": null,
+    "image": null,
+    "icon": "terminal",
+    "highlights": [
+      "Automated system health telemetry gathering",
+      "Bulk endpoint provisioning and configuration validation",
+      "Error handling routines ensuring reliable script execution"
+    ]
+  },
+  {
+    "id": "todo-list",
+    "title": "Todo Productivity App",
+    "tagline": "Keyboard-friendly task management web app",
+    "description": "Intuitive task management application featuring instant item categorization, completion toggling, filter states (All / Active / Completed), and persistent local state management.",
+    "category": "web",
+    "featured": false,
+    "year": "2020",
+    "tags": ["JavaScript", "HTML5", "LocalStorage", "Productivity"],
+    "github": "https://github.com/tpsapp/TodoList",
+    "demo": null,
+    "image": "assets/images/portfolio/todolist.jpg",
+    "icon": "check-square",
+    "highlights": [
+      "Smooth micro-interactions for adding and completing tasks",
+      "Filtering by completion state without page reload",
+      "Persistent state saved in browser"
+    ]
+  },
+  {
+    "id": "stone-fox-hosiery",
+    "title": "Stone Fox Hosiery",
+    "tagline": "Specialized OpenCart e-commerce storefront",
+    "description": "Full e-commerce platform implementation for a specialty fashion brand utilizing OpenCart, custom theme development, payment gateway integration, and inventory management.",
+    "category": "web",
+    "featured": false,
+    "year": "2014",
+    "tags": ["OpenCart", "PHP", "MySQL", "E-Commerce"],
+    "github": null,
+    "demo": null,
+    "image": "assets/images/portfolio/stonefoxhosiery.png",
+    "icon": "shopping-bag",
+    "highlights": [
+      "Customized OpenCart templating and responsive CSS layout",
+      "Integrated payment gateway and secure checkout pipeline",
+      "Categorized catalog filtering and inventory controls"
+    ]
+  },
+  {
+    "id": "arcade-web-games",
+    "title": "Interactive Browser Games (Hangman & Rock Paper Scissors)",
+    "tagline": "Classic games rebuilt with vanilla JavaScript and clean CSS",
+    "description": "Collection of classic interactive web games developed with vanilla JavaScript, featuring dynamic game state tracking, win/loss streak recording, audio cues, and responsive touch controls.",
+    "category": "games",
+    "featured": false,
+    "year": "2020",
+    "tags": ["JavaScript", "Game Logic", "CSS Animations", "HTML5"],
+    "github": "https://github.com/tpsapp/Hangman",
+    "demo": "https://www.thomassapp.com/Hangman",
+    "image": "assets/images/portfolio/hangman.jpg",
+    "icon": "puzzle-piece",
+    "highlights": [
+      "State-machine game loop running without external frameworks",
+      "Responsive visual cues and interactive keyboard listeners",
+      "Scoreboard tracking throughout player sessions"
+    ]
+  }
+]

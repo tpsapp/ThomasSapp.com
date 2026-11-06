@@ -1,0 +1,256 @@
+{
+  "summary": "Seasoned IT Leader and Software Developer with over 25 years of comprehensive experience spanning full-stack development, software architecture, technical leadership, and enterprise systems. Track record of designing scalable applications, leading technical teams, automating complex IT workflows, and delivering high-performance solutions across diverse platforms.",
+  "experience": [
+    {
+      "company": "Sappsworld Programming",
+      "role": "Owner & Lead Developer",
+      "location": "Phoenix, AZ",
+      "period": "Sep 2011 – Present",
+      "current": true,
+      "website": "https://www.sappsworld.com",
+      "description": "Direct the architecture, design, and full-lifecycle engineering of custom software solutions across desktop (Windows, Linux), mobile (Android), and web platforms. Partner with clients to translate business requirements into robust, high-performance applications.",
+      "highlights": [
+        "Architect and ship full-stack web, mobile, and desktop applications utilizing C#, Java, Python, C++, and modern JavaScript.",
+        "Design and maintain custom database schemas and client websites using PHP, MySQL, and modern CMS platforms.",
+        "Implement continuous quality assurance, clean architecture principles, and secure deployment pipelines."
+      ],
+      "technologies": [
+        "C#",
+        "C++",
+        "Python",
+        "Java",
+        "JavaScript",
+        "PHP",
+        "MySQL",
+        "Linux",
+        "Android"
+      ]
+    },
+    {
+      "company": "CVS Health",
+      "role": "Senior Analyst Desktop Support SME",
+      "location": "Scottsdale, AZ",
+      "period": "May 2025 – Present",
+      "current": true,
+      "website": "https://www.cvshealth.com",
+      "description": "Serve as Subject Matter Expert providing high-tier engineering and support for 5,000+ local and remote enterprise users. Spearhead internal IT automation initiatives.",
+      "highlights": [
+        "Develop and maintain enterprise automation scripts and internal utilities in PowerShell and Python to streamline support operations.",
+        "Resolve complex hardware, software, security, and network issues across Windows, macOS, and enterprise mobile environments.",
+        "Champion IT security compliance, author comprehensive engineering documentation, and mentor junior technical analysts."
+      ],
+      "technologies": [
+        "PowerShell",
+        "Python",
+        "Windows Enterprise",
+        "macOS",
+        "Active Directory",
+        "O365",
+        "Security Compliance"
+      ]
+    },
+    {
+      "company": "CVS Health",
+      "role": "Associate Manager Production Support",
+      "location": "Scottsdale, AZ",
+      "period": "Oct 2022 – May 2025",
+      "current": false,
+      "website": "https://www.cvshealth.com",
+      "description": "Led and mentored a high-performing team of desktop technicians delivering mission-critical computing hardware and software support.",
+      "highlights": [
+        "Managed operational schedules, performance reviews, resource allocations, and SLA adherence across multi-site regional teams.",
+        "Collaborated with executive leadership on regional IT strategy and technology modernization roadmaps.",
+        "Fostered continuous learning programs in emerging technologies and software best practices."
+      ],
+      "technologies": [
+        "Team Leadership",
+        "IT Strategy",
+        "SLA Management",
+        "Production Support",
+        "Process Improvement"
+      ]
+    },
+    {
+      "company": "CVS Health / PCS Health Systems",
+      "role": "Senior Analyst Production Support",
+      "location": "Scottsdale, AZ",
+      "period": "Apr 1998 – Oct 2022",
+      "current": false,
+      "website": "https://www.cvshealth.com",
+      "description": "Delivered comprehensive enterprise hardware, software, and systems infrastructure support for 2,000+ local and distributed employees.",
+      "highlights": [
+        "Supported enterprise software architectures including Siebel CRM, IBM OS/390, IBM AS/400, Windows Server, and Avaya telecom platforms.",
+        "Drove root-cause analysis on critical production incidents, minimizing downtime and business interruption."
+      ],
+      "technologies": [
+        "Windows Server",
+        "IBM OS/390",
+        "IBM AS/400",
+        "Siebel CRM",
+        "Telecom Systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Strayer University",
+      "degree": "Bachelor of Science in Information Technology",
+      "concentration": "Programming Technology",
+      "period": "2016 – 2021",
+      "honors": "Graduated with honors",
+      "highlights": "Advanced coursework in software engineering, object-oriented design, data structures, and database systems."
+    },
+    {
+      "institution": "McClintock High School",
+      "degree": "High School Diploma",
+      "period": "1992 – 1994",
+      "highlights": "Foundational computing studies and early software development interest."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "CISSP: Certified Information Systems Security Professional",
+      "issuer": "ISC",
+      "year": "2025",
+      "badge": "CISSP"
+    },
+    {
+      "title": "ITIL Foundation in Information Management",
+      "issuer": "Pink Elephant",
+      "year": "2015",
+      "badge": "ITIL"
+    },
+    {
+      "title": "MCSA (Microsoft Certified Solutions Associate)",
+      "issuer": "Microsoft / Intense School",
+      "year": "2003",
+      "badge": "MCSA"
+    },
+    {
+      "title": "MCSE (Microsoft Certified Systems Engineer)",
+      "issuer": "Microsoft / Intense School",
+      "year": "2003",
+      "badge": "MCSE"
+    },
+    {
+      "title": "MCPS (Microsoft Certified Professional)",
+      "issuer": "Microsoft",
+      "year": "2002",
+      "badge": "MCPS"
+    }
+  ],
+  "skills": {
+    "languages": [
+      {
+        "name": "C++",
+        "level": "Advanced",
+        "category": "Systems / App Dev"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced",
+        "category": "Scripting / Automation"
+      },
+      {
+        "name": "C# / .NET",
+        "level": "Advanced",
+        "category": "Desktop / Enterprise"
+      },
+      {
+        "name": "JavaScript (ES6+)",
+        "level": "Advanced",
+        "category": "Full-Stack Web"
+      },
+      {
+        "name": "Java",
+        "level": "Proficient",
+        "category": "Software / Android"
+      },
+      {
+        "name": "PHP",
+        "level": "Proficient",
+        "category": "Web & Backend"
+      },
+      {
+        "name": "PowerShell",
+        "level": "Expert",
+        "category": "Automation & DevOps"
+      },
+      {
+        "name": "SQL",
+        "level": "Proficient",
+        "category": "Databases"
+      }
+    ],
+    "webFrontend": [
+      {
+        "name": "HTML5 & Semantic Markup",
+        "level": "Expert"
+      },
+      {
+        "name": "Modern CSS3 / Flexbox / Grid",
+        "level": "Expert"
+      },
+      {
+        "name": "Vanilla JavaScript & DOM APIs",
+        "level": "Expert"
+      },
+      {
+        "name": "Responsive & Mobile-First Design",
+        "level": "Expert"
+      },
+      {
+        "name": "Web Accessibility (WCAG 2.1 AA)",
+        "level": "Advanced"
+      },
+      {
+        "name": "REST API Integration",
+        "level": "Advanced"
+      }
+    ],
+    "backendSystems": [
+      {
+        "name": "PHP & Apache / Nginx",
+        "level": "Proficient"
+      },
+      {
+        "name": "MySQL / SQLite Database Design",
+        "level": "Proficient"
+      },
+      {
+        "name": "Python Pygame & Utility Scripts",
+        "level": "Advanced"
+      },
+      {
+        "name": "C# WinForms / WPF",
+        "level": "Advanced"
+      },
+      {
+        "name": "WordPress / CMS Customization",
+        "level": "Proficient"
+      }
+    ],
+    "enterpriseDevOps": [
+      {
+        "name": "Git & GitHub Version Control",
+        "level": "Advanced"
+      },
+      {
+        "name": "Linux (Debian / Ubuntu / RHEL)",
+        "level": "Advanced"
+      },
+      {
+        "name": "Windows Enterprise & Active Directory",
+        "level": "Expert"
+      },
+      {
+        "name": "IT Automation & Scripting",
+        "level": "Expert"
+      },
+      {
+        "name": "ITIL Service Management",
+        "level": "Certified"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Thomas Sapp",
+  "title": "Lead Software Developer & Senior IT Specialist",
+  "roles": [
+    "Full-Stack Developer",
+    "Systems & Software Architect",
+    "IT Automation Specialist"
+  ],
+  "bio": "Seasoned software developer and IT leader with over 25 years of engineering experience spanning full-stack development, custom desktop solutions, enterprise systems, and IT automation. Passionate about crafting robust software across Windows, Linux, Android, and the Modern Web.",
+  "location": "Phoenix, AZ",
+  "email": "me@thomassapp.com",
+  "phone": "(480) 695-0519",
+  "birthYear": 1976,
+  "status": "Available for freelance & engineering opportunities",
+  "statusAvailable": true,
+  "social": {
+    "github": "https://github.com/tpsapp",
+    "linkedin": "https://www.linkedin.com/in/tpsapp",
+    "twitter": "https://twitter.com/raisor",
+    "email": "mailto:me@thomassapp.com"
+  },
+  "resumeFile": "assets/docs/thomas_sapp_resume.pdf",
+  "avatar": "assets/images/photo.jpg"
+}
